@@ -18,7 +18,7 @@ Supported languages/classes are:
 14. Ebira  
 15. Others( any other language)   
 
-**LIVE DEMO:** [Demo](https://naijasegmenter.herokuapp.com/)  
+**LIVE APP:** [App](https://naijasegmenter.herokuapp.com/)  
 
 ## How it works  
 The program is works by using naive bayes model language classifier to get the language for various segments of the input text.  
